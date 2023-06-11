@@ -1,14 +1,14 @@
-## Coming-Soon-Page
+# Coming-Soon-Page
 
-# Purpose:
+## Purpose:
 The Coming Soon page's purpose is to link this page to the portfolio projects until each project is completed.
 
-# Credits:
+## Credits:
 N/A
 
-# License:
+## License:
 Please refer to the LICENSE in the rep
 
-# Link to Deployed Application
+## Link to Deployed Application
 
-# Screentshot of Deployed Application
+## Screentshot of Deployed Application
