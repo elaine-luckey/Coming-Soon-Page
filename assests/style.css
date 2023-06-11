@@ -1,0 +1,24 @@
+/* IMPORTED FONT STYLE FOR ALL TEXT ON THE PAGE FROM GOOGLE FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@700&display=swap');
+
+/* UNIVERSAL SETTING TO CLEAR ALL THE BROWSER SPECIFIC SETTINGS */
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-family: 'Arima', cursive;
+    color: #1D1F23;
+}
+
+.nav-bar p{
+    font-size: 4rem;
+    margin-left: 2.5rem;
+}
+
+.about-image-container img {
+    display: flex;
+    margin-left: 100px;
+    height:500px;
+    width: 800px;
+}
